@@ -14,7 +14,7 @@ function App() {
       <div>Navbar</div>
       <div>
         <h2>This is First React</h2>
-        <JumbotronSection />
+        <JumbotronSection name={'Logassi'}/>
         <ContactUsSection />
         <TestimoniSection />
       </div>
